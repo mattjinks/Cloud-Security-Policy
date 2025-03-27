@@ -1,4 +1,4 @@
-# Cloud-Security-Policy
+# Cloud Security Policy
 This project was completed on a team of four for CS-4725: Information Security Strategies and Policy at Georgia Tech
 
 ## Overview
